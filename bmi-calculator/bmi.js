@@ -36,3 +36,5 @@ button.addEventListener("click", () => {
 	 	body.style.background = 'red';
 	 }
 });
+
+atake maybe ekta function er vitore rakhte hobe
